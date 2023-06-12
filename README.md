@@ -1,3 +1,3 @@
-# FaceParserFrameworkPackage 6.0
+# FaceParserFrameworkPackage 7.0
 
 Universal Framework.
