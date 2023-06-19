@@ -1,3 +1,3 @@
-# FaceParserFrameworkPackage 6.0 (test)
+# FaceParserFrameworkPackage 10.0
 
-Universal Framework.
+Universal Framework 10.0.
